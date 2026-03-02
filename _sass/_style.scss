@@ -115,15 +115,21 @@ b, strong {
 }
 
 a {
-  transition: background 300ms;
-  padding: 0 0.1em;
-  text-decoration: none;
-  border-bottom: 1px solid var(--color-border);
-  color: var(--color-primary);
-  background: transparent;
+  transition: color 300ms;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  border-bottom: none;
+  color: var(--color-subtext);
+  background: none !important;
   &:hover {
     color: var(--color-primary) !important;
-    background: transparent;
+    background: none !important;
+  }
+  &:focus {
+    color: var(--color-primary) !important;
+    background: none !important;
+    outline: none;
   }
   &:after {
     position: relative;
@@ -140,8 +146,7 @@ a {
 }
 
 *:focus {
-  background: var(--color-focus-bg) !important;
-  color: var(--color-focus-text) !important;
+  outline: none;
 }
 
 nav {
