@@ -49,7 +49,7 @@ body {
   color: var(--color-text);
   background-color: var(--color-bg);
   font-size: 1rem;
-  max-width: 63em;
+  max-width: 40em;
   transition: background-color 0.3s ease, color 0.3s ease;
 
   @media (min-width: 820px) {
@@ -185,18 +185,6 @@ code {
   cursor: help;
 }
 
-// Book-like content borders
-.wrapper {
-  border-left: 1px solid var(--color-border);
-  border-right: 1px solid var(--color-border);
-  padding: 0 2em;
-
-  @media (max-width: 600px) {
-    border-left: none;
-    border-right: none;
-    padding: 0;
-  }
-}
 
 // Theme toggle button
 .theme-toggle {

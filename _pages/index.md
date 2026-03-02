@@ -30,9 +30,3 @@ You can [receive updates from me via email](https://stephango.com/subscribe) or 
 - Mastodon: [@kepano@mastodon.social](https://mastodon.social/@kepano)
 - Bluesky: [@stephango.com](https://bsky.app/profile/stephango.com)
 - Threads: [@kepano](https://www.threads.net/@kepano)
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
