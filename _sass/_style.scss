@@ -14,7 +14,7 @@ $font-family: Helvetica, Arial, sans-serif;
   --color-focus-bg: #ffe8bc;
   --color-focus-text: #000000;
   --color-invalid-link: #444444;
-  --color-invalid-link-bg: #F0EDE5;
+  --color-invalid-link-bg: transparent;
   --color-invalid-link-brackets: #ccc;
   --color-external-arrow: #aaaaaa;
   --color-footer: #6B6B6B;
@@ -33,7 +33,7 @@ $font-family: Helvetica, Arial, sans-serif;
   --color-focus-bg: #4A4530;
   --color-focus-text: #CECDC3;
   --color-invalid-link: #8A8A8A;
-  --color-invalid-link-bg: #2A2926;
+  --color-invalid-link-bg: transparent;
   --color-invalid-link-brackets: #555;
   --color-external-arrow: #666666;
   --color-footer: #8A8A8A;
@@ -120,9 +120,10 @@ a {
   text-decoration: none;
   border-bottom: 1px solid var(--color-border);
   color: var(--color-primary);
+  background: transparent;
   &:hover {
     color: var(--color-primary) !important;
-    background: var(--color-link-hover-bg);
+    background: transparent;
   }
   &:after {
     position: relative;
@@ -182,6 +183,19 @@ code {
 .invalid-link-brackets {
   color: var(--color-invalid-link-brackets);
   cursor: help;
+}
+
+// Book-like content borders
+.wrapper {
+  border-left: 1px solid var(--color-border);
+  border-right: 1px solid var(--color-border);
+  padding: 0 2em;
+
+  @media (max-width: 600px) {
+    border-left: none;
+    border-right: none;
+    padding: 0;
+  }
 }
 
 // Theme toggle button
