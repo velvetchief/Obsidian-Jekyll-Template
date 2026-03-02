@@ -1,6 +1,3 @@
----
-title: Prithvi Datla
----
 
 # Prithvi Datla
 I’m Prithvi. You may also know me as _velvet_. I am the founder of [KiloByte Collective](https://kilobytecollective.com/)
