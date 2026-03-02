@@ -5,26 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# About Me
+I'm Prithvi. You may also know me as _velvet_. I am the founder of [KiloByte Collective](https://kilobytecollective.com/)
+_We're the world's coolest AI consulting firm._
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Previously, I was a product guy at an edtech startup then a couple of Fortune 25 companies. Then I founded a hospitality business that culminated with a boutique hotel in Tulum. Retired for a year, started [Velvet House](https://www.velvethouses.com/) and [Inkodye](https://stephango.com/inkodye). A few links to explore:
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+- [[Writing]]
+- [[Projects]]
+-[[ Photography]]
+- [[Recipes]]
+- [[What I'm doing now]]
 
 <style>
   .wrapper {
