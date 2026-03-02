@@ -1,3 +1,4 @@
 ---
 title: Recipes
+category: true
 ---
