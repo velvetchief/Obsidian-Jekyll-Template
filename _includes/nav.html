@@ -1,9 +1,18 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="display: flex; align-items: center; gap: 0.3em;">
         <a class="internal-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        {% if page.tags.size > 0 %}
+        {% if page.category == true %}
             <span style="color: var(--color-subtext);">/</span>
-            <a class="internal-link" href="{{ site.baseurl }}/tags/{{ page.tags.first | slugify }}">{{ page.tags.first }}</a>
+            <span style="color: var(--color-subtext);">{{ page.title }}</span>
+        {% elsif page.category and page.category != true %}
+            <span style="color: var(--color-subtext);">/</span>
+            {% assign cat_slug = page.category | capitalize %}
+            {% assign cat_note = site.notes | where: "title", cat_slug | first %}
+            {% if cat_note %}
+                <a class="internal-link" href="{{ site.baseurl }}{{ cat_note.url }}">{{ cat_slug }}</a>
+            {% else %}
+                <span style="color: var(--color-subtext);">{{ cat_slug }}</span>
+            {% endif %}
         {% elsif page.layout == "tag" %}
             <span style="color: var(--color-subtext);">/</span>
             <span style="color: var(--color-subtext);">{{ page.tag }}</span>

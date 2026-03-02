@@ -1,6 +1,7 @@
 ---
 title: Chicken Pulav
 tags: [familyrecipes, recipes]
+category: recipes
 ---
 
 1kg chicken aayinchufy
