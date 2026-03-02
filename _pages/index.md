@@ -24,9 +24,9 @@ Then, I founded a hospitality business that culminated with a boutique hotel in 
 
 You can [receive updates from me via email](https://stephango.com/subscribe) or follow me:
 
-- RSS feed: [stephango.com/feed](https://stephango.com/feed)
-- Twitter: [@kepano](https://twitter.com/kepano)
-- GitHub: [@kepano](https://github.com/kepano)
-- Mastodon: [@kepano@mastodon.social](https://mastodon.social/@kepano)
-- Bluesky: [@stephango.com](https://bsky.app/profile/stephango.com)
-- Threads: [@kepano](https://www.threads.net/@kepano)
+- Linkedin: [Prithvi Datla](https://www.linkedin.com/in/pvd5/)
+- X: [@prithvidatla](https://x.com/prithvidatla)
+- Instagram: [@storiesofshiva](https://www.instagram.com/storiesofshiva/)
+- TikTok: [@chutneybro](https://www.tiktok.com/@chutneybro?_r=1&_t=ZT-94MFLtbAOic)
+- Spotify: [@insidethefoundry](https://open.spotify.com/show/4ZIT6NOAl7yuccTz4Jde9P)
+- Youtube: [@insidethe.foundry](https://www.youtube.com/@insidethe.foundry)
