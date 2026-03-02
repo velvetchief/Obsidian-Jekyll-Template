@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# About Me
+## About Me
 
 I'm Prithvi. You may also know me as _velvet_. I am the founder of [KiloByte Collective](https://kilobytecollective.com/)
 _We're the world's coolest AI consulting firm._
