@@ -1,11 +1,43 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
-$color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+$font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+
+// Light theme (default)
+:root {
+  --color-bg: #FAF8F1;
+  --color-primary: #1A1A1A;
+  --color-text: #1A1A1A;
+  --color-subtext: #6B6B6B;
+  --color-border: #E0DDD5;
+  --color-box-background: #F0EDE5;
+  --color-link-hover-bg: #F0EDE5;
+  --color-code-bg: #F0EDE5;
+  --color-focus-bg: #ffe8bc;
+  --color-focus-text: #000000;
+  --color-invalid-link: #444444;
+  --color-invalid-link-bg: #F0EDE5;
+  --color-invalid-link-brackets: #ccc;
+  --color-external-arrow: #aaaaaa;
+  --color-footer: #6B6B6B;
+}
+
+// Dark theme
+[data-theme="dark"] {
+  --color-bg: #1A1918;
+  --color-primary: #CECDC3;
+  --color-text: #CECDC3;
+  --color-subtext: #8A8A8A;
+  --color-border: #333230;
+  --color-box-background: #2A2926;
+  --color-link-hover-bg: #2A2926;
+  --color-code-bg: #2A2926;
+  --color-focus-bg: #4A4530;
+  --color-focus-text: #CECDC3;
+  --color-invalid-link: #8A8A8A;
+  --color-invalid-link-bg: #2A2926;
+  --color-invalid-link-brackets: #555;
+  --color-external-arrow: #666666;
+  --color-footer: #8A8A8A;
+}
 
 body {
   box-sizing: content-box;
@@ -14,9 +46,11 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: $color-text;
+  color: var(--color-text);
+  background-color: var(--color-bg);
   font-size: 1rem;
   max-width: 63em;
+  transition: background-color 0.3s ease, color 0.3s ease;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -25,14 +59,14 @@ body {
 
 time {
   display: block;
-  color: $color-subtext;
+  color: var(--color-subtext);
   margin: 0.5em 0 1em;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix($color-text, white, 80%);
+  color: var(--color-footer);
   padding-top: 1em;
 }
 
@@ -48,7 +82,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: var(--color-box-background);
   border-radius: $border-radius;
 
   p {
@@ -61,7 +95,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
+  background: var(--color-border);
 }
 
 h1,
@@ -79,18 +113,18 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-primary);
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: var(--color-primary) !important;
+    background: var(--color-link-hover-bg);
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
-    content: "↗";
-    color: #aaaaaa;
+    content: "\2197";
+    color: var(--color-external-arrow);
   }
   &.internal-link:after,
   &.footnote:after,
@@ -100,8 +134,8 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
-  color: black !important;
+  background: var(--color-focus-bg) !important;
+  color: var(--color-focus-text) !important;
 }
 
 nav {
@@ -122,25 +156,46 @@ nav {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: var(--color-box-background);
   padding: 1em;
   border-radius: $border-radius;
 }
 
 code {
-  background: #f5f5f5;
+  background: var(--color-code-bg);
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }
 
 .invalid-link {
-  color: #444444;
+  color: var(--color-invalid-link);
   cursor: help;
-  background: #fafafa;
+  background: var(--color-invalid-link-bg);
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: var(--color-invalid-link-brackets);
   cursor: help;
+}
+
+// Theme toggle button
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 0.2em 0.4em;
+  color: var(--color-text);
+  border-radius: $border-radius;
+  transition: background 300ms;
+  line-height: 1;
+
+  &:hover {
+    background: var(--color-link-hover-bg);
+  }
+
+  &:focus {
+    outline: none;
+  }
 }
