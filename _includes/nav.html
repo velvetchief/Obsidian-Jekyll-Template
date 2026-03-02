@@ -1,5 +1,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a class="internal-link" href="{{ site.baseurl }}/"><b>{{ site.title }}</b></a>
+    <div style="display: flex; align-items: center; gap: 0.3em;">
+        <a class="internal-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        {% if page.tags.size > 0 %}
+            <span style="color: var(--color-subtext);">/</span>
+            <a class="internal-link" href="{{ site.baseurl }}/tags/{{ page.tags.first | slugify }}">{{ page.tags.first }}</a>
+        {% elsif page.layout == "tag" %}
+            <span style="color: var(--color-subtext);">/</span>
+            <span style="color: var(--color-subtext);">{{ page.tag }}</span>
+        {% endif %}
+    </div>
     <div style="display: flex; align-items: center; gap: 1em;">
         <a class="internal-link" href="{{ site.baseurl }}/what-i-m-doing-now">Now</a>
         <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
