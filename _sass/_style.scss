@@ -18,6 +18,7 @@ $font-family: Helvetica, Arial, sans-serif;
   --color-invalid-link-brackets: #ccc;
   --color-external-arrow: #aaaaaa;
   --color-footer: #6B6B6B;
+  --color-link: #DA702C;
   --color-link-hover: #2B8A8A;
 }
 
@@ -38,6 +39,7 @@ $font-family: Helvetica, Arial, sans-serif;
   --color-invalid-link-brackets: #555;
   --color-external-arrow: #666666;
   --color-footer: #8A8A8A;
+  --color-link: #DA702C;
   --color-link-hover: #5EC4C4;
 }
 
@@ -122,7 +124,7 @@ a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
   border-bottom: none;
-  color: var(--color-subtext);
+  color: var(--color-link);
   background: none !important;
   &:hover {
     color: var(--color-link-hover) !important;
