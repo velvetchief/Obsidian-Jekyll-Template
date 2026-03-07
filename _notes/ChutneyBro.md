@@ -1,5 +1,5 @@
 ---
-category: Projects
+category: projects
 title: ChutneyBro
 ---
 When I shut down [Velvet House](https://www.velvethouses.com/), the itch to do another food and beverage concept was at its peak. A coffee trip that spanned 6 Indonesian islands and the Malabar Highlands in India fueled this fire. 
