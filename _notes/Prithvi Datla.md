@@ -8,7 +8,7 @@ _We're the world's coolest AI consulting firm._
 
 Previously, I was a product guy at an edtech startup and a couple of Fortune 25 companies. 
 
-Then, I founded a hospitality business that culminated with a boutique hotel in Tulum. Retired for a year, started [Velvet House](https://www.velvethouses.com/) and [Inkodye](https://stephango.com/inkodye). A few links to explore:
+Then, I founded a hospitality business that culminated with a boutique hotel in Tulum. Retired for a year, built [Velvet House](https://www.velvethouses.com/) and destroyed it before others could ruin it.  A few links to explore:
 
 - [[Writing]]
 - [[Projects]]
