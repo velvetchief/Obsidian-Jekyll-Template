@@ -11,6 +11,14 @@ class BidirectionalLinksGenerator < Jekyll::Generator
 
     link_extension = !!site.config["use_html_extension"] ? '.html' : ''
 
+    # Convert Obsidian-style image embeds ![[image.ext]] to <img> tags
+    all_docs.each do |current_note|
+      current_note.content.gsub!(
+        /!\[\[([^\]]+\.(?:png|jpg|jpeg|gif|svg|webp))\]\]/i,
+        "<img src='#{site.baseurl}/assets/\\1' alt='\\1' />"
+      )
+    end
+
     # Convert all Wiki/Roam-style double-bracket link syntax to plain HTML
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
