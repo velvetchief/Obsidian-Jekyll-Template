@@ -31,11 +31,11 @@ You can [receive updates from me via email](https://stephango.com/subscribe) o
 
 ## Colophon
 
-This site is written and edited in [Obsidian](https://stephango.com/obsidian). Like  [Steph Ango](https://stephango.com/), I adhere to the philosophy of [File over app](https://stephango.com/file-over-app). My plain text Obsidian files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
+This site is written and edited in [Obsidian](https://stephango.com/obsidian). Fully inspired by  [Steph Ango](https://stephango.com/). Like him, I adhere to the philosophy of [File over app](https://stephango.com/file-over-app). My plain text Obsidian files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
 
-The color palette is [Flexoki](https://stephango.com/flexoki) . My Jekyll template is custom and not public, but you can get similar results from [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt.
+My Jekyll template is custom and not public, but you can get similar results from [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt. I used it as a base, asked Claude code to customize. 
 
 
-## You are here
+## We are here. Ad Astra.
 
-Ad Astra.
+![[MomoPudi.png]]
