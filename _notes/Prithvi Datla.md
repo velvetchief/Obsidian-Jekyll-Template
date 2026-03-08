@@ -35,7 +35,9 @@ This site is written and edited in [Obsidian](https://stephango.com/obsidian). 
 
 My Jekyll template is custom and not public, but you can get similar results from [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt. I used it as a base, asked Claude code to customize. 
 
+All Photographs and graphic images are my work, copyright. 
 
-## We are here. Ad Astra.
+
+Ad Astra. 
 
 ![[MomoPudi.png]]
