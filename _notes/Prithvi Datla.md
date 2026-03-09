@@ -18,7 +18,7 @@ Then, I founded a hospitality business that culminated with a boutique hotel in 
 
 ## Elsewhere
 
-You can [receive updates from me via email](https://stephango.com/subscribe) or follow me:
+You can [receive updates from me via email](https://buttondown.com/prithvi) or follow me:
 
 - Linkedin: [Prithvi Datla](https://www.linkedin.com/in/pvd5/)
 - X: [@prithvidatla](https://x.com/prithvidatla)
