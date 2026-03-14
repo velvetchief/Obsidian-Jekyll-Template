@@ -3,9 +3,9 @@ title: "What I'm doing now"
 category: true
 ---
 
-### Architecting AI First Business Solutions
+### Architecting AI First Business Solutions for Small Business
 
-I am the founder of [KiloByte Collective](https://kilobytecollective.com/), an AI solutions firm for small business. A few popular entries related to KiloByte:
+I am the founder of [KiloByte Collective](https://kilobytecollective.com/), we help small business win big. A few popular entries related to KiloByte:
 
 - [The Way of The Sword][[The Way of the Sword - Everything I built with AI in 2025]
 - [[KiloByte Collective - My First Hello]]
@@ -17,11 +17,13 @@ I am the founder of [KiloByte Collective](https://kilobytecollective.com/), an 
 
 See [[Projects]] for a full list of past projects and related writing.
 
-### Product - 
+### 1. Product - 
 
 *Ecommerce, Digital Ops, CX, Omnichannel, Merchandising, Retail, Marketplaces*
 
-I was the first product guy at an ed-tech startup - Two sided marketplace for online tutoring. *(2008-2010)* 
+### I was the first product guy at an ed-tech startup - 
+
+Two sided marketplace for online tutoring. *(2008-2010)* 
 
 - Modernized complete web platform to be web 2.0 compliant
 - Responsible for $50K monthly SEM spend, SEO
@@ -33,7 +35,7 @@ I was the first product guy at an ed-tech startup - Two sided marketplace for on
 - Implemented Live chat support
 - Revenue increased from ~$300K to ~2.7M ARR
 
-At AT&T, I was an early product manager on the ecommerce team. (2010-2016)
+### At AT&T, I was an early product manager on the ecommerce team. (2010-2016)
 
 - Grew mobility catalog from ~30 skus to ~4,500 skus 
 - Developed new data models for ecommerce store, managed daily release, merchandising
@@ -42,9 +44,9 @@ At AT&T, I was an early product manager on the ecommerce team. (2010-2016)
 - Increased workflow efficiency by ~30% YoY for 4 years straight
 - Led omnichannel redesign - catalog, and online - sales, post sale, service
 
-At a cloud-native SaaS company, I did presales - build collateral, demo the product, technical discovery, RFP responses (2016 - 2017)
+### At a cloud-native SaaS company, I did presales - build collateral, demo the product, technical discovery, RFP responses (2016 - 2017)
 
-At Verizon, I led Ecommerce, CX, and Digital Sales Initiatives
+At Verizon, I led Ecommerce, CX, and Digital Sales Initiatives (2017-2021)
 
 - [Built Verizon's first touch free POS platform](https://www.verizon.com/about/news/feed/introducing-touchless-retail)
 - Grew revenue for the accessories BU ~37% YoY via partnership and promo campaigns
@@ -53,22 +55,25 @@ At Verizon, I led Ecommerce, CX, and Digital Sales Initiatives
 - NPS went up +2 points YoY
 
 
-### Hospitality, Real Estate, Food & Beverage:
+### 2. Hospitality, Real Estate, Food & Beverage:
 
+- I single handedly built Mexico's best Indian Restaurant - [Velvet House](https://www.velvethouses.com/),  and destroyed it before others could ruin it. (2023-2024)
 
-**I single handedly built Mexico's best Indian Restaurant - [Velvet House](https://www.velvethouses.com/),**  and destroyed it before others could ruin it. I turned a $6,000 investment into $800 a day in revenue. Did the following entirely myself - 
+I turned a $6,000 investment into $800 a day in revenue. Did the following entirely myself - 
 
 1. Continuously iterated and built a menu from scratch over 6 months
 2. Built 2 outdoor kitchens and equipped by hand
 3. Restaurant became - multiple concepts implemented led to final form
-4. >0.3% waste in a year
+4. Less than 0.3% waste in a year
 5. Sourcing, Inventory, Kitchen, Service, Sales, Marketing, Dogs, & Vibes
 6. Hired 8 staff after 4 months, taught them all how to cook and serve Indian food - by cooking and serving them myself
 7. All 5 star reviews, not this, but the reviews telling a tale
 8. Best Espresso in Tulum - I'm a plant to sip coffee but, my coffee sensitivities - a blend of Italian and Indonesian brews
 
 
-**Founded a hospitality business solo** - boutique property management which led to owning and operating Boutique Hotels in NY, Puerto Vallarta, and starting to build my final project in Tulum. Project Acquired. 
+### **Founded a hospitality business solo** - 
+
+Boutique property management which led to owning and operating Boutique Hotels in NY, Puerto Vallarta, and starting to build my final project in Tulum. Project Acquired. (2017 - 2023)
 
 1. $10,000 investment, $1.5M return over 7 years
 2. 2700+ 5 Star reviews, 4.9 average across all properties
@@ -79,4 +84,6 @@ At Verizon, I led Ecommerce, CX, and Digital Sales Initiatives
 7. 40 workers, different trades
 8. Project acquired at 30% completion by PE
 
-I host a podcast called [Inside the Foundry](https://thefoundry.cloud) about the stories behind builders and operators, going into pivotal moments that shaped their work and outlook towards it. It's currently on a break as I figure out a new direction. I hope to do the next episode end of March 2026. 
+I host a podcast called [Inside the Foundry](https://thefoundry.cloud) about the stories behind builders and operators. Pivotal moments that shaped their work and outlook towards it. 
+
+It's currently on a break as I figure out a new direction. I hope to do the next episode end of March 2026. 

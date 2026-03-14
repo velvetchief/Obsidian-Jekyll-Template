@@ -3,8 +3,7 @@ title: About Me
 hidden: true
 ---
 
-I'm Prithvi. You may also know me as _velvet_. I am the founder of [KiloByte Collective](https://kilobytecollective.com/)
-_We're the world's coolest AI consulting firm._ 
+I'm Prithvi. You may also know me as _velvet_ or _storiesofshiva_. I am the founder of [KiloByte Collective](https://kilobytecollective.com/). _We're the world's coolest AI consulting firm. Our goal is to make small business win big._
 
 Previously, I was a product guy at an edtech startup and a couple of Fortune 25 companies. 
 
