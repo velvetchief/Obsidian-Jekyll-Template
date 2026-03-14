@@ -8,7 +8,7 @@ _We're the world's coolest AI consulting firm._
 
 Previously, I was a product guy at an edtech startup and a couple of Fortune 25 companies. 
 
-Then, I founded a hospitality business that culminated with a boutique hotel in Tulum. Retired for a year, built [Velvet House](https://www.velvethouses.com/) and destroyed it before others could ruin it.  A few links to explore:
+Then, I founded a hospitality business that culminated with a boutique hotel in Tulum. Retired for a year, built Mexico's best Indian restaurant - [Velvet House](https://www.velvethouses.com/), and destroyed it before others could ruin it.  A few links to explore:
 
 - [[Writing]]
 - [[Projects]]
@@ -31,9 +31,9 @@ You can [receive updates from me via email](https://buttondown.com/prithvi) or
 
 ## Colophon
 
-This site is written and edited in [Obsidian](https://stephango.com/obsidian). Fully inspired by  [Steph Ango](https://stephango.com/). Like him, I adhere to the philosophy of [File over app](https://stephango.com/file-over-app). My plain text Obsidian files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
+This site is written and edited in [Obsidian](https://stephango.com/obsidian). Fully inspired by  [Steph Ango](https://stephango.com/). Like him, I work with the philosophy of [File over app](https://stephango.com/file-over-app). My plain text Obsidian files are automatically compiled into web pages using [Jekyll](https://jekyllrb.com/) and hosted with [Netlify](https://www.netlify.com/).
 
-My Jekyll template is custom and not public, but you can get similar results from [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt. I used it as a base, asked Claude code to customize. 
+My Jekyll template and color scheme is custom and not public, but you can get similar results from [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt. I used it as a base, asked Claude code to customize. 
 
 All Photographs and graphic images are my work, copyright. 
 
