@@ -17,19 +17,13 @@ I am the founder of [KiloByte Collective](https://kilobytecollective.com/), we h
 
 See [[Projects]] for a full list of past projects and related writing.
 
-&nbsp;
-
 ### Product
 
 13 years in ecommerce, digital ops, CX, and omnichannel — from a scrappy ed-tech startup to AT&T and Verizon. [[Product Career]]
 
-&nbsp;
-
 ### Hospitality, Real Estate, Food & Beverage
 
 Built Mexico's best Indian restaurant — [[Velvet House Story]]. Founded a solo hospitality business that grew into boutique hotels across NY, Puerto Vallarta, and Tulum — [[Hospitality Business]].
-
-&nbsp;
 
 ### Podcast
 

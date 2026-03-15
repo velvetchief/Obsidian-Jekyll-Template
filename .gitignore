@@ -16,3 +16,11 @@ _includes/notes_graph.json
 
 # macOS metadata
 .DS_Store
+
+# Sensitive files
+.env*
+*.pem
+*.key
+
+# Claude working files
+.claude/
