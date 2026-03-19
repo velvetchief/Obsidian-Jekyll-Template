@@ -10,24 +10,9 @@ layout: default
     </time>
   </div>
 
-  {% if content != "" and content != nil %}
-  <content>
+  <div id="gallery-content">
     {{ content }}
-  </content>
-  {% endif %}
-
-  {% if page.images.size > 0 %}
-  <div class="gallery-grid">
-    {% for img in page.images %}
-      <figure class="gallery-item{% if img.wide %} gallery-item--wide{% endif %}" onclick="openLightbox(this)">
-        <img src="{{ site.baseurl }}/{{ img.file }}" alt="{{ img.caption | default: page.title }}" loading="lazy">
-        {% if img.caption %}
-          <figcaption>{{ img.caption }}</figcaption>
-        {% endif %}
-      </figure>
-    {% endfor %}
   </div>
-  {% endif %}
 
   {% if page.tags.size > 0 %}
   <div style="margin-top: 2em; color: var(--color-subtext);">
@@ -44,6 +29,48 @@ layout: default
 </div>
 
 <script>
+  (function() {
+    var container = document.getElementById('gallery-content');
+    var imgs = Array.prototype.slice.call(container.querySelectorAll('img'));
+    if (imgs.length === 0) return;
+
+    // Find the first image's ancestor that is a direct child of container
+    var firstImg = imgs[0];
+    var firstImgBlock = firstImg;
+    while (firstImgBlock.parentNode !== container) {
+      firstImgBlock = firstImgBlock.parentNode;
+    }
+
+    // Everything before the first image block is intro
+    var intro = document.createElement('div');
+    var sibling = container.firstChild;
+    while (sibling && sibling !== firstImgBlock) {
+      var next = sibling.nextSibling;
+      intro.appendChild(sibling);
+      sibling = next;
+    }
+
+    // Build gallery grid from all images
+    var grid = document.createElement('div');
+    grid.className = 'gallery-grid';
+    imgs.forEach(function(img) {
+      var figure = document.createElement('figure');
+      figure.className = 'gallery-item';
+      figure.onclick = function() { openLightbox(this); };
+      var newImg = img.cloneNode(true);
+      newImg.loading = 'lazy';
+      figure.appendChild(newImg);
+      grid.appendChild(figure);
+    });
+
+    // Replace content
+    container.innerHTML = '';
+    if (intro.innerHTML.trim()) {
+      container.appendChild(intro);
+    }
+    container.appendChild(grid);
+  })();
+
   function openLightbox(el) {
     var img = el.querySelector('img');
     var lb = document.getElementById('lightbox');
