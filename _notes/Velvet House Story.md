@@ -14,4 +14,6 @@ I turned a $6,000 investment into $800 a day in revenue. Did the following entir
 5. Sourcing, Inventory, Kitchen, Service, Sales, Marketing, Dogs, & Vibes
 6. Hired 8 staff after 4 months, taught them all how to cook and serve Indian food - by cooking and serving them myself
 7. All 5 star reviews, not this, but the reviews telling a tale
-8. Best Espresso in Tulum - I'm a plant to sip coffee but, my coffee sensitivities - a blend of Italian and Indonesian brews
+8. Best Espresso in Tulum - I'm a plant to sip coffee nut, my coffee sensitivities - a blend of Italian and Indonesian brews...
+
+To be continued...
