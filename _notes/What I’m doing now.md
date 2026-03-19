@@ -3,13 +3,13 @@ title: "What I'm doing now"
 category: true
 ---
 
-## Architecting AI First Business Solutions for Small Business
+## Architecting AI for Small Business
 
 I am the founder of [KiloByte Collective](https://kilobytecollective.com/), we help small business win big. A few popular entries related to KiloByte:
 
 - [[The Way of the Sword - Everything I built with AI in 2025]]
 - [[KiloByte Collective - My First Hello]]
-- [[The Fist 30 Days at KiloByte]]
+- [[The First 30 Days at KiloByte]]
 
 ---
 
