@@ -13,7 +13,7 @@ Then, I founded a hospitality business that culminated with a boutique hotel in 
 - [[Projects]]
 - [[Photography]]
 - [[Recipes]]
-- [[What I’m doing now]]
+- [[What Im doing now]]
 
 
 ## Elsewhere

@@ -9,6 +9,11 @@ category: true
     {% if note.category == "photography" %}
       <li>
         {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+        {% if note.type == "gallery" %}
+          <span class="type-label">gallery</span>
+        {% else %}
+          <span class="type-label">writing</span>
+        {% endif %}
       </li>
     {% endif %}
   {% endfor %}
