@@ -12,7 +12,7 @@ My living room, and Mexico's best Indian Restaurant. Early days, when the soul w
 ![[Instavelvethousebrunch-min.jpg]]
 
 ![[instavelvethousefilms 5-min.jpg]]
-![[VelvethouseInsta 24.jpg]]
+
 ![[instavelvethousefilms 11-min.jpg]]
 
 ![[instavelvethousefilms 16-min.jpg]]
