@@ -4,7 +4,7 @@ category: projects
 ---
 Late 2024, I had partial backing for a hospitality project - the goal was a brand that stood for exceptional experience minus nonsense - not just for the guests, but for the business. 
 
-This meant minimal permitting, minimal or no city council/ town council bullshit. No HOA. Just the space to be, to do. For the operating team, this meant a simple, functional system with precise guardrails against failure. 
+This meant minimal permitting, minimal or no city council/ town council bullshit. No HOA. Just the space to be, to do. No demolition or clearing headaches. For the operating team, this meant a simple, functional system with precise guardrails against failure. 
 
 Following is the deck I pitched investors - some of them were the wrong kind, some of them were chicken. 
 
