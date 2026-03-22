@@ -5,6 +5,28 @@ type: gallery
 layout: gallery
 ---
 
-![[InstaOaxaca 1.jpg]]
-![[Velvethouse24 34.jpg]]
-![[VelvethouseInsta 24.jpg]]
+My living room, and Mexico's best Indian Restaurant. Early days, when the soul was whimsical.
+
+
+
+![[Instavelvethousebrunch-min.jpg]]
+
+![[instavelvethousefilms 5-min.jpg]]
+
+![[instavelvethousefilms 11-min.jpg]]
+
+![[instavelvethousefilms 16-min.jpg]]
+
+![[instavelvethousefilms 21-min.jpg]]
+
+![[instavelvethousefilms 24-min.jpg]]
+
+![[instavelvethousefilms 28-min.jpg]]
+
+![[instavelvethousefilms 30-min.jpg]]
+
+![[instavelvethousefilms 35-min.jpg]]
+
+![[instavelvethousefilms 37-min.jpg]]
+
+![[Instavelvetlunches 3-min.jpg]]
