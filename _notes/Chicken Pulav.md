@@ -4,7 +4,7 @@ tags: [familyrecipes, recipes]
 category: recipes
 ---
 
-1kg chicken aayinchufy
+1kg chicken Aayinchufy
 
 10 red chillies
 
@@ -22,6 +22,6 @@ Add chicken
 
 After 80 percent - Add garam 1TBSP
 
-Anapa neelu- bayleaf, tamarind littul, star anise, marathi mocha cardamom and cinnamon, sauf
+Anapa neelu- bayleaf, tamarind littul, star anise, marathi mogga, cardamom and cinnamon, fennel
 
 Boil in 7 glasses water
