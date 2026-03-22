@@ -1,6 +1,8 @@
 ---
 title: Velvet House - Chapter One - The Origins
 category: projects
+tags:
+  - velvethouse
 ---
 **_Retirement, and Restaurant as a Product (RaaP!?):_**
 
@@ -110,4 +112,27 @@ The beginning, when possibility remained pure -
 ![[Pasted image 20260322114423.png]]
 _Romo, the soul of Velvet House_
 
+
+![[Pasted image 20260322114505.png]]
+_The Deadpool Fridge was the first, and my favorite purchase. Listed for $500, acquired for $270 on Marketplace._
+
+
+![[Pasted image 20260322114551.png]]
+_Kitchen #1, would later become a lounge/ workspace for patrons._
+
+
+![[Pasted image 20260322114655.png]]
+_Day before opening, post a Costco roundtrip to Cancun. 2221 hrs._
+
+
+![[Pasted image 20260322114802.png]]
+_The first menu. Everyday had a new menu. Plus, dog food._
+
+
+![[Pasted image 20260322114837.png]]
+_Day of opening, 0432 hrs, no sleep, not done cleaning. Deadpool fridge in all it's glory._
+
+
+![[Pasted image 20260322114918.png]]
+_1000 hrs, June 22, 2023. Chef x Barista x Cleaner x Host x Owner._
 
