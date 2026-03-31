@@ -1,6 +1,7 @@
 ---
 title: KiloByte Collective - My First Hello
 category: writing
+tags: [ai, building, startups]
 ---
 Email to the team. Originally written March 2nd, 2026.
 

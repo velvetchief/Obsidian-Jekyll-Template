@@ -1,8 +1,7 @@
 ---
 title: Velvet House Story
 category: projects
-tags:
-  - velvethouse
+tags: [velvethouse, building, food, hospitality]
 ---
 
 I single handedly built Mexico's best Indian Restaurant - [Velvet House](https://www.velvethouses.com/), and destroyed it before others could ruin it. (2023-2024)

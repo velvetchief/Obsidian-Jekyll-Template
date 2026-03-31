@@ -1,6 +1,6 @@
 ---
 title: "The Way of the Sword: Everything I built with AI in 2025"
-tags: [writing, projects]
+tags: [writing, projects, ai, building]
 category: writing
 ---
 

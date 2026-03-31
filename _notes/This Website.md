@@ -1,6 +1,7 @@
 ---
 title: This Website
 category: projects
+tags: [tools, building]
 ---
 Michelangelo didn't hide David.
 

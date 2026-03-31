@@ -1,6 +1,7 @@
 ---
 title: Product Career
 category: projects
+tags: [career]
 ---
 
 *Ecommerce, Digital Ops, CX, Omnichannel, Merchandising, Retail, Marketplaces*

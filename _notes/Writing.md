@@ -3,6 +3,14 @@ title: Writing
 category: true
 ---
 
+<div class="topics-list">
+  Topics:
+  {% assign topic_names = "ai, building, career, education, food, hospitality, ideas, photography, recipes, startups, tools, writing" | split: ", " %}
+  {% for topic in topic_names %}
+    <a class="internal-link" href="{{ site.baseurl }}/tags/{{ topic }}/">{{ topic }}</a>{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+</div>
+
 <ul>
   {% assign notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in notes %}

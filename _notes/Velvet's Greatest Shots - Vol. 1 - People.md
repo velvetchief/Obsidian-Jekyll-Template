@@ -3,8 +3,7 @@ title: "Velvet's Greatest Shots - Vol. 1 - People"
 category: photography
 type: gallery
 layout: gallery
-tags:
-  - velvethouse
+tags: [velvethouse, photography]
 ---
 A few favorites from early portrait work - all shot on Fuji XT30 /  Fuji XT5, Viltrox 23mm 1.4 / Fuji 50mm 1.4.
 

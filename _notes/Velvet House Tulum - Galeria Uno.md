@@ -3,8 +3,7 @@ title: Velvet House, Tulum - Galeria Uno
 category: photography
 type: gallery
 layout: gallery
-tags:
-  - velvethouse
+tags: [velvethouse, photography, hospitality]
 ---
 
 My living room, and Mexico's best Indian Restaurant. Early days, when the soul was whimsical.

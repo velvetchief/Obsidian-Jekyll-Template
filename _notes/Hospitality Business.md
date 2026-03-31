@@ -1,6 +1,7 @@
 ---
 title: Hospitality Business
 category: projects
+tags: [building, hospitality]
 ---
 
 Founded a hospitality business solo - boutique property management which led to owning and operating Boutique Hotels in NY, Puerto Vallarta, and starting to build my final project in Tulum. Project Acquired. (2017 - 2023)

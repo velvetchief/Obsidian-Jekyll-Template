@@ -1,6 +1,7 @@
 ---
 category: projects
 title: ChutneyBro
+tags: [food, building, startups]
 ---
 When I shut down [Velvet House](https://www.velvethouses.com/), the itch hit immediately.
 

@@ -1,8 +1,7 @@
 ---
 title: Velvet House - Chapter One - The Origins
 category: projects
-tags:
-  - velvethouse
+tags: [velvethouse, writing, hospitality, ideas]
 ---
 **_Retirement, and Restaurant as a Product (RaaP!?):_**
 
