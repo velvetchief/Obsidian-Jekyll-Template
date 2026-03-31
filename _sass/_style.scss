@@ -321,19 +321,22 @@ code {
 }
 
 // Topics list on Writing page
+.topics-label {
+  color: var(--color-subtext);
+  margin-bottom: 0.5em;
+}
+
 .topics-list {
-  font-size: 0.85em;
   color: var(--color-subtext);
   margin-bottom: 2em;
   line-height: 1.8;
 
   a {
-    color: var(--color-subtext);
-    text-decoration: none;
+    color: var(--color-text);
+    text-decoration: underline;
 
     &:hover {
       color: var(--color-link-hover);
-      text-decoration: underline;
     }
 
     &:after {
