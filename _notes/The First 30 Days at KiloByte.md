@@ -2,6 +2,6 @@
 title: The First 30 Days at KiloByte
 category: writing
 ---
-tThe first 30 days at KiloByte took 40ish years to execute. I had to be in the right places at the right time, see wins, losses, ass whoopings, all of that good stuff. 
+The first 30 days at KiloByte took 40ish years to form and execute. I had to be in the right places at the right time, lots of losses, ass whoopings, a few wins, all of that good stuff. 
 
-Will expand on this in the coming days. 
+AI is a paradox. It is the only new technology that started off with a low cost to users. Not just AI usage costs - subscriptions and tokens, but also the cost to build solutions, people and time needed. 
