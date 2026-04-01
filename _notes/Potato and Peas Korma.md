@@ -2,6 +2,7 @@
 title: Potato and Peas Korma
 tags: [familyrecipes, recipes]
 category: recipes
+date: 2026-03-08
 ---
 ![[Pasted image 20260308111156.png]]
 

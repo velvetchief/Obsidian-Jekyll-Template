@@ -2,6 +2,7 @@
 title: Salmon Curry
 tags: [familyrecipes, recipes]
 category: recipes
+date: 2026-03-08
 ---
 ![[shivachutneybrosalmoncurry 1-min 1.jpg]]
 

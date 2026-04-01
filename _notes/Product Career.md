@@ -2,6 +2,7 @@
 title: Product Career
 category: projects
 tags: [career]
+date: 2026-03-15
 ---
 
 *Ecommerce, Digital Ops, CX, Omnichannel, Merchandising, Retail, Marketplaces*

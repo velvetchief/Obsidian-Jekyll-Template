@@ -2,6 +2,7 @@
 title: Magic Curry Base
 tags: [familyrecipes, recipes]
 category: recipes
+date: 2026-03-08
 ---
 Makes cooking curry a breeze. 
 

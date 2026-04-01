@@ -4,11 +4,11 @@ category: true
 ---
 
 <ul>
-  {% assign notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+  {% assign notes = site.notes | sort: "date" | reverse %}
   {% for note in notes %}
     {% if note.category == "photography" %}
       <li>
-        {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+        {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
         {% if note.type == "gallery" %}
           <span class="type-label">gallery</span>
         {% else %}

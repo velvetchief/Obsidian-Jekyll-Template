@@ -2,6 +2,7 @@
 category: projects
 title: Aptifier
 tags: [ai, building, education]
+date: 2026-03-31
 ---
 This past year, I ran into a bunch of friends whose kids were gearing up for college. Every single one of them was dealing with the same two headaches:
 

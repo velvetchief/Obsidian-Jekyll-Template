@@ -4,6 +4,7 @@ category: photography
 type: gallery
 layout: gallery
 tags: [velvethouse, photography, hospitality]
+date: 2026-03-19
 ---
 
 My living room, and Mexico's best Indian Restaurant. Early days, when the soul was whimsical.

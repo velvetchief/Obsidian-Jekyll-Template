@@ -2,6 +2,7 @@
 title: "The Way of the Sword: Everything I built with AI in 2025"
 tags: [writing, projects, ai, building]
 category: writing
+date: 2026-03-08
 ---
 
 ![[Pasted image 20260308112348.png]]

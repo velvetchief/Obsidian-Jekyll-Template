@@ -2,6 +2,7 @@
 title: Butter Chicken
 tags: [familyrecipes, recipes]
 category: recipes
+date: 2026-03-08
 ---
 ![[shivachutneybrobutterchicken 4-min.jpg]]
 

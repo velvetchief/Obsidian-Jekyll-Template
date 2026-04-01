@@ -2,6 +2,7 @@
 title: Palak Paneer
 tags: [familyrecipes, recipes]
 category: recipes
+date: 2026-03-08
 ---
 ![[shivachutneybropalakpaneer 1-min.jpg]]
 

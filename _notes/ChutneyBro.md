@@ -2,6 +2,7 @@
 category: projects
 title: ChutneyBro
 tags: [food, building, startups]
+date: 2026-03-07
 ---
 When I shut down [Velvet House](https://www.velvethouses.com/), the itch hit immediately.
 

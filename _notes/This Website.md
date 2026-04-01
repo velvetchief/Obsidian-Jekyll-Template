@@ -2,6 +2,7 @@
 title: This Website
 category: projects
 tags: [tools, building]
+date: 2026-03-22
 ---
 Michelangelo didn't hide David.
 

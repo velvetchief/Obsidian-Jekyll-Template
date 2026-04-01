@@ -4,6 +4,7 @@ category: photography
 type: gallery
 layout: gallery
 tags: [velvethouse, photography]
+date: 2026-03-22
 ---
 A few favorites from early portrait work - all shot on Fuji XT30 /  Fuji XT5, Viltrox 23mm 1.4 / Fuji 50mm 1.4.
 

@@ -2,6 +2,7 @@
 title: Velvet House - Chapter One - The Origins
 category: projects
 tags: [velvethouse, writing, hospitality, ideas]
+date: 2026-03-22
 ---
 **_Retirement, and Restaurant as a Product (RaaP!?):_**
 

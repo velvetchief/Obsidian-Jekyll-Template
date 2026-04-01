@@ -2,6 +2,7 @@
 title: An Imbecilic Obsession with Light
 category: photography
 tags: [photography, ideas, writing]
+date: 2026-03-08
 ---
 My dad is the most prolific photographer I've met in real life. Not the most talented. The most prolific.
 

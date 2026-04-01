@@ -1,6 +1,7 @@
 ---
 title: The Momito - A Hospitality Concept
 category: projects
+date: 2026-03-22
 ---
 Late 2024, I had partial backing for a hospitality project - the goal was a brand that stood for exceptional experience minus nonsense - not just for the guests, but for the business. 
 

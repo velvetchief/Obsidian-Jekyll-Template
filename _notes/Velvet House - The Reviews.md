@@ -2,6 +2,7 @@
 title: The Velvet House - Reviews
 category: projects
 tags: [velvethouse, hospitality]
+date: 2026-03-22
 ---
 One man's work (rage).
 
