@@ -19,6 +19,9 @@ That was the unlock. Every one of these concepts has a simple core underneath th
 
 So I wrote the book from the primitives up.
 
+![[The_RAG_Book_Thumb.jpg]]
+
+
 The RAG Book. A field manual for AI Engineers building Multi-Agent Systems. 
 
 17 modules, laid out as a 10-day program. Every concept explained from two angles in the same pages — product (what it does, what it affects, when it fails) and engineering (how to build it, how to test it, how to ship it). Every module opens with a real production failure. Runnable Python throughout.
@@ -31,4 +34,4 @@ Labs Bundle: All of the Above + 3 Labs + Captsone (Git Access on purchase) - $10
 
 Preview it here for FREE:
 
-[theragbook.com]
+[[theragbook.com]]
