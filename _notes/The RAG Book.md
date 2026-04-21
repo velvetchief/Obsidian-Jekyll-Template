@@ -1,7 +1,6 @@
 ---
 category: projects
 title: The RAG Book
-tags: [projects]
 date: 2026-04-21
 ---
 Last spring I decided to build a real multi-agent system for GTM — sourcing intel, running tech recon, mapping sales plays, drafting outreach. The kind of system that should work well with AI.
@@ -32,4 +31,4 @@ Labs Bundle: All of the Above + 3 Labs + Captsone (Git Access on purchase) - $10
 
 Preview it here for FREE:
 
-theragbook.com
+[theragbook.com]

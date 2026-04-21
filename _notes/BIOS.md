@@ -1,7 +1,6 @@
 ---
 category: projects
 title: BIOS
-tags: [projects]
 date: 2026-04-08
 ---
 I was in a tech conference expo hall last year. The whole hall smelled like a problem nobody wanted to admit.
