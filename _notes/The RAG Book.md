@@ -34,4 +34,4 @@ Labs Bundle: All of the Above + 3 Labs + Captsone (Git Access on purchase) - $10
 
 Preview it here for FREE:
 
-[[theragbook.com]]
+[theragbook.com](https://theragbook.com)
