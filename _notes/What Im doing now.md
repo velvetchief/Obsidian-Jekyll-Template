@@ -3,9 +3,9 @@ title: "What I'm doing now"
 category: true
 ---
 
-## Architecting AI for Small Business
+## AI for Restaurants
 
-I am the founder of [KiloByte Collective](https://kilobytecollective.com/), we help small business win big. A few popular entries related to KiloByte:
+I am the founder of [Dinealog](https://dinealog.com/), we help small business win big. A few popular entries related to Dinealog and what led to it:
 
 - [[The Way of the Sword - Everything I built with AI in 2025]]
 - [[KiloByte Collective - My First Hello]]
