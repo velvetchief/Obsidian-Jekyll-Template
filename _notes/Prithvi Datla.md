@@ -3,7 +3,7 @@ title: About Me
 hidden: true
 ---
 
-I'm Prithvi. You may also know me as _velvet_ or _storiesofshiva_. I am the founder of [Dinealog](https://dinealog.com/). _We help restaurants make more money and serve better.
+I'm Prithvi. You may also know me as _velvet_ or _storiesofshiva_. I am the founder of [Dinealog](https://dinealog.com/). _We help restaurants make more money and serve better._
 
 Previously, I was a product guy at an edtech startup and a couple of Fortune 25 companies. 
 
