@@ -1,6 +1,5 @@
 ---
 title: "The Cut is the Craft"
-tags: [writing, food, education, career, ideas]
 category: writing
 date: 2026-05-21
 ---
@@ -11,7 +10,7 @@ Back when they were warm neighborhood spaces and not wannabe hotspots for Lulule
 
 The GMAT. I went through high school math and prose fast. The rest couldn't be refreshed - it had to be built, and the building was the act of testing itself. A week of learning. A week of practice questions. Then the real stuff: mock tests. Three the first week, six the next, two the last. With GMAT, the exam is the test, not the knowledge. My mock scores were good enough. I'd bombed one early in the second week, but by test day it was a distant memory.
 
-Test day. Arrived with a banana. By the end, my brain was screaming for rum and I was confident I'd p*ssed away a good chance. The screen flashed: do you want to see your score or cancel the test? _I saw the number._ Good enough for the only school I wanted to go to. I sent it to A, a childhood friend who'd studied at Cornell, bought a bottle of rum on the way home, and sat in silence in my backyard the rest of the evening. I had to apply.
+Test day. Arrived with a banana. By the end, my brain was screaming for rum and I was confident *I'd pissed away a good chance*. The screen flashed: do you want to see your score or cancel the test? _I saw the number._ Good enough for the only school I wanted to go to. I sent it to A, a childhood friend who'd studied at Cornell, bought a bottle of rum on the way home, and sat in silence in my backyard the rest of the evening. I had to apply.
 
 When I thought my application was ready, I sent A a three-page essay that, thankfully, no longer exists. If it did, I'd call it word vomit. He called me when he read it.
 
