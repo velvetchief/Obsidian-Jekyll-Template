@@ -2,7 +2,7 @@
 title: "The Cut is the Craft"
 tags: [writing, food, education, career, ideas]
 category: writing
-date: 2026-05-21
+date: 2026-06-16
 ---
 
 Why I went to Cornell is a story for another time. Here's _how_ I did it once I made up my mind.

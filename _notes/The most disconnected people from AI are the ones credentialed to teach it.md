@@ -2,7 +2,7 @@
 title: "The most disconnected people from AI are the ones credentialed to teach it"
 tags: [ai, education, ideas, applied ai, writing]
 category: writing
-date: 2026-05-21
+date: 2026-06-08
 ---
 Over the past year I've come across three computer science deans and two professors from public and private universities — the people supposed to be running the departments that will mint the next decade of engineers. All of them waved off AI as a bubble. A scam. Granted, valuations are frothy, but that was not their point. In their esteemed opinion, it's a fad, a passing thing serious people should not touch.
 

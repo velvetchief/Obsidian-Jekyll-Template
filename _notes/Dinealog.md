@@ -2,7 +2,7 @@
 category: projects
 title: Dinealog
 tags: [ai, building, startups, restaurants, applied ai, tools]
-date: 2026-05-21
+date: 2026-05-27
 ---
 ![[IMG_2556.jpg]]
 
