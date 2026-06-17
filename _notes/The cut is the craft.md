@@ -1,5 +1,6 @@
 ---
 title: "The Cut is the Craft"
+tags: [writing, food, education, career, ideas]
 category: writing
 date: 2026-05-21
 ---
